@@ -1,0 +1,8 @@
+# Ignore configuration files
+**/*.conf
+
+# Ignore sepecific editor configuration
+*sublime-*
+
+# Ignore local build system
+Makefile
